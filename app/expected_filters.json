@@ -1,0 +1,7 @@
+{
+    "city": "bogota",
+    "price_lower_than": "1000000000",
+    "price_greater_than": "1",
+    "status": "pre_venta",
+    "year": "2000"
+}
